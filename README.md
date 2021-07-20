@@ -6,25 +6,34 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sagarpatil2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakul-amate" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nakul amate" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC9yvJNp4_iAFAvzsPvIBhGA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nakul amate" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nakul_amate" height="30" width="40" /></a>
+<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/linkedin.png" alt="c++" width="5%" height="5%"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/Medium-Logo-Black-RGB@2x.png" alt="c++" width="15%" height="15%"/> </a>
+  <a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/HackerRank_logo.png" alt="c++" width="7%" height="5%"/> </a>
+  <a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/LeetCode_logo_black.png" alt="c++" width="7%" height="5%"/> </a>
+  <a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/Kaggle_logo.png" alt="c++" width="10%" height="10%"/> </a>
+  <a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/youtube.png" alt="c++" width="5%" height="5%"/> </a>
+  <a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/github.png" alt="c++" width="5%" height="5%"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  
+<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/ISO_C++_Logo.svg" alt="c++" width="5%" height="5%"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/Java_programming_language_logo.svg" alt="java" width="5%" height="5%"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/d5a2e028dc28c228ba3b7c42a0f1bc11da2dfb94/Logo/python-logo-master-v3-TM%20(1).png" alt="python" width="20%" height="20%"/> </a>
+ </p>
+ 
+ <h3 align="left">Framework:</h3>
+<p align="left"> 
+<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/bootstrap-logo.png" alt="c++" width="5%" height="5%"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/django-logo-positive.png" alt="java" width="10%" height="10%"/> </a>
+ </p>
+ 
+ <h3 align="left">Libraries:</h3>
+<p align="left"> 
+<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/NumPy_logo_2020%20(1).svg" alt="c++" width="10%" height="10%"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/Pandas_logo.svg" alt="java" width="10%" height="10%"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/Matplotlib_logo.svg" alt="python" width="15%" height="15%"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/Scikit_learn_logo_small.svg" alt="python" width="10%" height="10%"/> </a>
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=netrasagarmal&show_icons=true&locale=en&layout=compact" alt="netrasagarmal" /></p>
