@@ -29,8 +29,9 @@
  
  <h3 align="left">Database</h3>
 <p align="left"> 
-<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/3f457d713254faaf3fa3c982eaa28168435c0661/Logo/logo-mysql-170x115.png" alt="c++" width="10%" height="10%"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/3f457d713254faaf3fa3c982eaa28168435c0661/Logo/MongoDB_Logo_FullColorBlack_RGB.png" alt="java" width="15%" height="15%"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/3f457d713254faaf3fa3c982eaa28168435c0661/Logo/logo-mysql-170x115.png" alt="MySQL" width="10%" height="10%"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/3f457d713254faaf3fa3c982eaa28168435c0661/Logo/MongoDB_Logo_FullColorBlack_RGB.png" alt="MongoDB" width="15%" height="15%"/> </a>
+ <a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/main/Logo/SQLite-Logo.png" alt="SQLit" width="15%" height="15%"/> </a>
  </p>
  
  <h3 align="left">Libraries:</h3>
