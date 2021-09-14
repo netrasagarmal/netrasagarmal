@@ -8,11 +8,10 @@
 <p align="left">
 <a href="www.linkedin.com/in/sagarpatil2000" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/linkedin.png" alt="c++" width="5%" height="5%"/> </a>
 <a href="https://sagarpatil2000.medium.com/" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/Medium-Logo-Black-RGB@2x.png" alt="c++" width="15%" height="15%"/> </a>
-  <a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/HackerRank_logo.png" alt="c++" width="7%" height="5%"/> </a>
-  <a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/LeetCode_logo_black.png" alt="c++" width="7%" height="5%"/> </a>
-  <a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/Kaggle_logo.png" alt="c++" width="10%" height="10%"/> </a>
-  <a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/youtube.png" alt="c++" width="5%" height="5%"/> </a>
-  <a href="https://github.com/netrasagarmal" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/github.png" alt="c++" width="5%" height="5%"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/a90565347925432382c4fcd63ec82883f3d55566/Logo/cv.png" alt="c++" width="7%" height="5%"/> </a>
+<a href="https://netrasagar12mati.wixsite.com/sagarpatil" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/a90565347925432382c4fcd63ec82883f3d55566/Logo/world-wide-web.png" alt="c++" width="7%" height="5%"/> </a>
+ <a href="https://drive.google.com/file/d/10PUWtAeXBL3MzXh5LeQOqkNZYNCCZNUt/view?usp=sharing" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/youtube.png" alt="c++" width="5%" height="5%"/> </a>
+<a href="https://github.com/netrasagarmal" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/github.png" alt="c++" width="5%" height="5%"/> </a>
 </p>
 
 <h3 align="left">Languages:</h3>
