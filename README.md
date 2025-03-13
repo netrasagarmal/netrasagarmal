@@ -1,47 +1,25 @@
-<h1 align="center">Hi 👋, I'm Sagar Patil</h1>
+<h3 align="center">Hello World!</h3>
+<h1 align="center">I'm Sagar Patil</h1>
 <h3 align="center">“The only way to do great work is to love what you do.”</h3>
 <h4 align="center">– Steve Jobs</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=netrasagarmal&label=Profile%20views&color=0e75b6&style=flat" alt="nakul1010" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=netrasagarmal&label=Profile%20views&color=0e75b6&style=flat" alt="netrasagarmal" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/sagarpatil2000" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/linkedin.png" alt="c++" width="5%" height="5%"/> </a>
-<a href="https://sagarpatil2000.medium.com/" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/Medium-Logo-Black-RGB@2x.png" alt="c++" width="15%" height="15%"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/a90565347925432382c4fcd63ec82883f3d55566/Logo/cv.png" alt="c++" width="7%" height="5%"/> </a>
-<a href="https://netrasagar12mati.wixsite.com/sagarpatil" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/a90565347925432382c4fcd63ec82883f3d55566/Logo/world-wide-web.png" alt="c++" width="7%" height="5%"/> </a>
- <a href="https://drive.google.com/file/d/10PUWtAeXBL3MzXh5LeQOqkNZYNCCZNUt/view?usp=sharing" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/youtube.png" alt="c++" width="5%" height="5%"/> </a>
-<a href="https://github.com/netrasagarmal" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/826b705b6ac4516ced5ad9edfd093bfe8dbe0151/Logo/github.png" alt="c++" width="5%" height="5%"/> </a>
-</p>
+<h3 align="left">About</h3>
+<p align="left"> Tech and business enthusiast with a passion for cooking and cinematics. As a data scientist at Jio, I am passionate about using cutting-edge technologies and advanced analytics to create innovative data platforms and products that drive business growth and enhance customer experiences. With a focus on transforming India through the power of the digital revolution, I am dedicated to leveraging my expertise in data science and machine learning to drive impactful change in the industry. I am excited to continue working alongside talented professionals at Jio to drive transformative change and shape the future of the digital landscape in India. With a love for exploring the world and trying new things, I'm always seeking new challenges and opportunities to grow both personally and professionally. </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> 
-<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/ISO_C++_Logo.svg" alt="c++" width="5%" height="5%"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/Java_programming_language_logo.svg" alt="java" width="5%" height="5%"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/d5a2e028dc28c228ba3b7c42a0f1bc11da2dfb94/Logo/python-logo-master-v3-TM%20(1).png" alt="python" width="20%" height="20%"/> </a>
- </p>
- 
- <h3 align="left">Framework:</h3>
-<p align="left"> 
-<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/bootstrap-logo.png" alt="c++" width="5%" height="5%"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/django-logo-positive.png" alt="java" width="10%" height="10%"/> </a>
- </p>
- 
- <h3 align="left">Database</h3>
-<p align="left"> 
-<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/3f457d713254faaf3fa3c982eaa28168435c0661/Logo/logo-mysql-170x115.png" alt="MySQL" width="10%" height="10%"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/3f457d713254faaf3fa3c982eaa28168435c0661/Logo/MongoDB_Logo_FullColorBlack_RGB.png" alt="MongoDB" width="15%" height="15%"/> </a>
- <a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/main/Logo/SQLite-Logo.png" alt="SQLit" width="15%" height="15%"/> </a>
- </p>
- 
- <h3 align="left">Libraries:</h3>
-<p align="left"> 
-<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/NumPy_logo_2020%20(1).svg" alt="c++" width="10%" height="10%"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/Pandas_logo.svg" alt="java" width="10%" height="10%"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/Matplotlib_logo.svg" alt="python" width="15%" height="15%"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/netrasagarmal/netrasagarmal/blob/4882409b9625b5b861fa1d56425459423ff0c8b9/Logo/Scikit_learn_logo_small.svg" alt="python" width="10%" height="10%"/> </a>
- </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=netrasagarmal&show_icons=true&locale=en&layout=compact" alt="netrasagarmal" /></p>
+<h3 align="left">Professional Summary</h3>
+<p align="left"> Data Scientist with expertise in Generative AI, LLMs, and cloud-based machine learning solutions. Experienced in developing and deploying scalable AI-driven applications, optimizing model performance, and integrating advanced AI-ML techniques into business solutions. </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=netrasagarmal&show_icons=true&locale=en" alt="netrasagarmal" /></p>
+<h2>Skills & Expertise</h2>
+
+<ul>
+  <li><strong>Programming:</strong> Python, C++</li>
+  <li><strong>AI/ML:</strong> Computer Vision, CNN, Transformer Models, LLMs, RAG</li>
+  <li><strong>ML/DL Frameworks:</strong> PyTorch, Scikit-Learn, TensorFlow, Keras, OpenCV, Hugging Face, Pandas, NumPy, Matplotlib, LangChain</li>
+  <li><strong>Cloud:</strong> Google Cloud Platform, MS Azure (Certified), Docker, Kubernetes</li>
+  <li><strong>Backend:</strong> Flask, FastAPI, Django</li>
+  <li><strong>Databases:</strong> MySQL, MS-SQL Server, Google BigQuery</li>
+  <li><strong>Tools:</strong> Git, Linux, Prompt Engineering with ChatGPT, Claude, Deepseek</li>
+</ul>
