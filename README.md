@@ -11,6 +11,9 @@
 <h4 align="left">Sagar Linkedin</h4>
 <p>👉<a href="https://www.linkedin.com/in/sagarpatil2000/" target="_blank"><strong>Click here</strong></a>.</p>
 
+<h4 align="left">Sagar Medium Articles</h4>
+<p>👉<a href="https://medium.com/@sagarpatil2000" target="_blank"><strong>Click here</strong></a>.</p>
+
 <h3 align="left">About</h3>
 <p align="left"> Tech and business enthusiast with a passion for cooking and cinematics. As a data scientist at Jio, I am passionate about using cutting-edge technologies and advanced analytics to create innovative data platforms and products that drive business growth and enhance customer experiences. With a focus on transforming India through the power of the digital revolution, I am dedicated to leveraging my expertise in data science and machine learning to drive impactful change in the industry. I am excited to continue working alongside talented professionals at Jio to drive transformative change and shape the future of the digital landscape in India. With a love for exploring the world and trying new things, I'm always seeking new challenges and opportunities to grow both personally and professionally. </p>
 
