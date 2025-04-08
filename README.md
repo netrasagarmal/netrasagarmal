@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netrasagarmal&label=Profile%20views&color=0e75b6&style=flat" alt="netrasagarmal" /> </p>
 
 <h4 align="left">Sagar Resume </h4>
-<p>👉<a href="https://drive.google.com/file/d/1usEMz9eBprY6Kb3M9bLtwGK2tYLvZ7Lv/view?usp=sharing" target="_blank"><strong>Click here</strong></a> to view the resume.</p>
+<p>👉<a href="https://drive.google.com/file/d/12JWVF5XpkJ4Toq7dKH4PDLts0DHsl-u1/view?usp=drive_link" target="_blank"><strong>Click here</strong></a> to view the resume.</p>
 
 <h4 align="left">Sagar Linkedin</h4>
 <p>👉<a href="https://www.linkedin.com/in/sagarpatil2000/" target="_blank"><strong>Click here</strong></a>.</p>
