@@ -8,7 +8,7 @@
 
 | Name            | Link |
 | :---------------- | :------: | 
-| Resume        |<p>👉<a href="https://drive.google.com/file/d/12JWVF5XpkJ4Toq7dKH4PDLts0DHsl-u1/view?usp=drive_link" target="_blank"><strong>Click here</strong></a> to view the resume.</p>|
+| Resume        |<p>👉<a href="https://drive.google.com/file/d/1Xl_LV0iq7Oe1OYMS5k4UzQ_hfq-H9tbH/view?usp=sharing" target="_blank"><strong>Click here</strong></a> to view the resume.</p>|
 | LinkedIn          |<p>👉<a href="https://www.linkedin.com/in/sagarpatil2000/" target="_blank"><strong>Click here</strong></a>.</p> |
 | Medium Blogs    |<p>👉<a href="https://medium.com/@sagarpatil2000" target="_blank"><strong>Click here</strong></a>.</p>|
 
