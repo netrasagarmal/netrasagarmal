@@ -18,7 +18,7 @@
 
 
 <h3 align="left">Professional Summary</h3>
-<p align="left"> Data Scientist with expertise in Generative AI, LLMs, and cloud-based machine learning solutions. Experienced in developing and deploying scalable AI-driven applications, optimizing model performance, and integrating advanced AI-ML techniques into business solutions. </p>
+<p align="left"> Machine Learning Engineer (Software Development SDE) with 3 years of experience and expertise in Generative AI, LLMs, RAGs, Python and cloud-based machine learning solutions. Experienced in developing and deploying scalable AI-driven applications, optimizing model performance, and integrating advanced AI-ML techniques into business solutions </p>
 
 <h2>Skills & Expertise</h2>
 <ul>
