@@ -11,7 +11,7 @@
 
 | Name            | Link |
 | :---------------- | :------: | 
-| Resume        |<p>👉<a href="https://drive.google.com/file/d/1Xl_LV0iq7Oe1OYMS5k4UzQ_hfq-H9tbH/view?usp=sharing" target="_blank"><strong>Click here</strong></a> to view the resume.</p>|
+| Resume        |<p>👉<a href="https://drive.google.com/file/d/1OztYBx66OLTYRgtgTEbo2MUU4rYTEAIR/view?usp=sharing" target="_blank"><strong>Click here</strong></a> to view the resume.</p>|
 | LinkedIn          |<p>👉<a href="https://www.linkedin.com/in/sagarpatil2000/" target="_blank"><strong>Click here</strong></a>.</p> |
 | Medium Blogs    |<p>👉<a href="https://medium.com/@sagarpatil2000" target="_blank"><strong>Click here</strong></a>.</p>|
 
@@ -57,9 +57,10 @@
 
 <h4 align="left">Generative AI (GenAI)</h4>
 <ul>
+  <li><strong>Data Analysis Agent App:</strong> 👉<a href="https://github.com/netrasagarmal/company_sales_data_qna_using_genai" target="_blank"><strong>Click here</strong></a></li>
   <li><strong>Langchain Basics:</strong> 👉<a href="https://github.com/netrasagarmal/langchain_basics_genai" target="_blank"><strong>Click here</strong></a></li>
   <li><strong>GenAI Chatbot:</strong> 👉<a href="https://github.com/netrasagarmal/genai_chatbot" target="_blank"><strong>Click here</strong></a></li>
-  <li><strong>Document Summarization and QnA app:</strong> 👉<a href="https://github.com/netrasagarmal/document_qna_and_summarization" target="_blank"><strong>Click here</strong></a></li>
+  <li><strong>Document Summarization and QnA App:</strong> 👉<a href="https://github.com/netrasagarmal/document_qna_and_summarization" target="_blank"><strong>Click here</strong></a></li>
   <li><strong>GenAI Agent Basics:</strong> 👉<a href="https://github.com/netrasagarmal/agentic_ai" target="_blank"><strong>Click here</strong></a></li>
 </ul>
 
